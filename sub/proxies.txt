@@ -1,3 +1,1 @@
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&encryption=none&type=ws&path=%2fhttp#%f0%9f%87%a9%f0%9f%87%aa%20DE%201
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989#%f0%9f%87%a6%f0%9f%87%b9%20AT%201
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.117:2376#%f0%9f%87%ba%f0%9f%87%b8%20US%201
+trojan://telegram-id-privatevpns@13.50.53.164:22222?sni=trojan.burgerip.co.uk&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201

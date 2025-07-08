@@ -1,6 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%f0%9f%87%ba%f0%9f%87%b8%20US%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%f0%9f%87%ba%f0%9f%87%b8%20US%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#%f0%9f%87%ba%f0%9f%87%b8%20US%203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#%f0%9f%87%ba%f0%9f%87%b8%20US%204
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#%f0%9f%87%ac%f0%9f%87%a7%20GB%201
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=none&encryption=none&fp=chrome&type=grpc&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
